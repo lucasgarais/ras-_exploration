@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rasppmde:Repository xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rasppmde="http://prisma.cos.ufrj.br/rasppmde/2.0" id="lq9mSh1D2Kbl8W6qXwN1kjHC0" name="CRM">
+  <assets xsi:type="rasppmde:ReusableAsset" id="4ptD27bl8cDa8V26ASAHkNBY0" name="CRM DE VENDAS CLOUD">
+    <classification id="og0jlCV831U71tdTM77782322">
+      <descriptorGroup id="dhj49wsQ9q6U5H4G9lQSJa74W" name="Pipeline de Vendas">
+        <freeeFormValue id="kOHdU5S9J9uAKK67geyuUA5U9" name="Otimizar processos"/>
+        <freeeFormValue id="f946wDQXlSLFt569pcB6vhy73" name="Customização"/>
+        <freeeFormValue id="5frPAFnw5gpR66ss4hYDLX82j" name="Descritor de oportunidades"/>
+      </descriptorGroup>
+      <descriptorGroup id="8Ax864xSvA806LWKvvME1Gd71" name="Artifact Types">
+        <freeeFormValue name="Metamodel"/>
+        <freeeFormValue name="Model transformation"/>
+      </descriptorGroup>
+      <descriptorGroup name="Artifact Development Contexts">
+        <freeeFormValue name="Research Project"/>
+      </descriptorGroup>
+      <descriptorGroup name="System/Software Domains">
+        <freeeFormValue name="Model transformation"/>
+      </descriptorGroup>
+      <descriptorGroup name="Lifecycle Phases">
+        <freeeFormValue name="Validation/Verification/Analysis"/>
+      </descriptorGroup>
+      <descriptorGroup name="Modeling Languages/Notations">
+        <freeeFormValue name="MEGAF"/>
+        <freeeFormValue name="MegaL"/>
+        <freeeFormValue name="class diagram"/>
+      </descriptorGroup>
+      <descriptorGroup id="d4REff0VVd9480DD2iNskAuhx" name="Keywords">
+        <freeeFormValue name="megamodels"/>
+        <freeeFormValue name="macromodels"/>
+        <freeeFormValue name="technology models"/>
+        <contained id="Uf42he4Wvfb95JpBn56kn8b0n" name="Keywords">
+          <freeeFormValue name="megamodels"/>
+          <freeeFormValue name="macromodels"/>
+          <freeeFormValue name="technology models"/>
+        </contained>
+      </descriptorGroup>
+      <descriptorGroup id="8vdwi3PixMGJXw96mRbpkhuAv" name="Oportunidades">
+        <freeeFormValue id="81yyq23y05YkirmLd5Rm130aR" name=""/>
+        <classificationSchema id="0j4vjx284loN9KGs14b1k78cp" name=""/>
+      </descriptorGroup>
+    </classification>
+    <solution id="1kc53ctv2r2158Udm1F8nUso9"/>
+    <downloadInfo>
+      <location id="10dur6O1wU46JCU29wi4gI97D" path="None"/>
+    </downloadInfo>
+    <downloadInfo id="AYeyc7nr26M8uBPA3oli0d8cN">
+      <location id="954wSo22n9JBKMBI3V40jaOi7"/>
+    </downloadInfo>
+    <assetDependencies id="U2sf6Hm9524o80USVG4sWku15" name=""/>
+    <roles id="TCNi9sbLMtrLKDKNxWAdqP8vY" name=""/>
+  </assets>
+ </rasppmde:Repository>
