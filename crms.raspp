@@ -398,4 +398,262 @@
       <location id="3wBF134K867K67TR2431j1ClO" path="https://meets.com.br/funcionalidades-meets-crm/"/>
     </downloadInfo>
   </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="icaceLM4rL3kawo0A4mQoMR86" name="NECTAR CRM">
+    <classification id="140v1GI6399W0QiuCsic063F9">
+      <descriptorGroup id="LX9t6bH0ST923Bd0iHLUkJY9R" name="Essenciais">
+        <freeeFormValue id="4c6icfyS24m7FK1HKM8V4K6yN" name="Acompanhamento de oportunidades de vendas em detalhes através de uma pipeline visual"/>
+      </descriptorGroup>
+      <descriptorGroup id="7uW6qNPCqm25ekPWC1A43uCwe" name="Produtividade">
+        <freeeFormValue id="psWPV9LnywFg3P9prvkECN1Ms" name="Gerenciamento de tarefas, compromissos e lembredes de follow-up"/>
+      </descriptorGroup>
+      <descriptorGroup id="21ARSpm1lAm9LMGeLVrC5gof7" name="Personalização">
+        <freeeFormValue id="2Y9wOy8PvyQ5uc30T1S5om8h1" name="Plataforma robusta e personalizável "/>
+      </descriptorGroup>
+      <descriptorGroup id="30J08iO0uLhhUfCQwq2B5Ce2C" name="Ligações">
+        <freeeFormValue id="9f78g5eqqbl429WLrB3fs74t1" name="Registro de chamadas entre vendedores e clientes"/>
+        <freeeFormValue id="IxVD2WQ6UENLKU6EIj0T49B96" name="Recebimento de ligações através da plataforma Nectar"/>
+        <freeeFormValue id="lfNv7GD465SMkdM98xPj442B7" name="Armazenamento de àudios das ligações"/>
+      </descriptorGroup>
+      <descriptorGroup id="lVOehch6sTQM0PYuUHDTln3KC" name="Feedback">
+        <freeeFormValue id="7U0G9cU4Gs8mQGhjNIXuyf5NR" name="Histórico de cadastro de contatos, e-mail enviados e recebidos"/>
+        <freeeFormValue id="r72Jf97pcNXv56VJ3pv57lCM9" name="Cadastro de feedback dos vendedores"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="fR6j28uGv4N7Ykbrd2FV6Qub2">
+      <location id="30It27Twb2xifP1QH9aH1HBvk" path="https://nectarcrm.com.br/produto/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="sTt6YxuH0T9Px354Nfsny8Xjj" name="SALESFORCE">
+    <classification id="9sN41p50x8wfm7356LWjE1v4L">
+      <descriptorGroup id="f5dnL5FCyxJ70eXw4rpRvO9hH" name="Lightning Console">
+        <freeeFormValue id="n9E9Wq95iyg2LSRpcHL17RCk3" name="Informações necessárias em um único console"/>
+        <freeeFormValue id="9WnKNBHhNl6Do68XmEBe5M843" name="Administração de casos, rastreamento de histórico do cliente, ver papéis e muito mais"/>
+      </descriptorGroup>
+      <descriptorGroup id="eHooLI92dSUcLdAcSE0arWn56" name="Live Agent">
+        <freeeFormValue id="1C4mHyo1g5mi0E67825u1K80e" name="Permite ao cliente se comunicar com um agente de atendimento através da Web."/>
+        <freeeFormValue id="Y3pI3BNRl6du48EtyMfUP09s7" name="Capacita os agentas para pergumtas de campo a qualquer dia e hora"/>
+      </descriptorGroup>
+      <descriptorGroup id="oHC6PVyuaxKU0l8x6nf9T4Hb9" name="Comunidades">
+        <freeeFormValue id="7vS4yEFKjAE6F3J42t69ERyF0" name="Disponibilização de portais de autoatendimento e fórus de discussão"/>
+        <freeeFormValue id="oKg056pSa5RpbsJu380G5IcNM" name="Proporcionam aos agentes e funcionários uma possibilidade maior de interação com o cliente"/>
+      </descriptorGroup>
+      <descriptorGroup id="F0EVxt02EVRUmpMXQBhUKbo9Q" name="Conhecimento">
+        <freeeFormValue id="4VS9762H88Ch08N4uSWQMtgpa" name="Gerenciamento de conhecimento eficiente"/>
+      </descriptorGroup>
+      <descriptorGroup id="76f10IN72kK070GR9oTAfD336" name="Snap-ins">
+        <freeeFormValue id="9Vs17lGQM1PtTT2yf3yAWAaK8" name=" Integração os recursos de suporte ao cliente como informações, gerenciamento de casos, Live Agent (bate-papo) e com o bate-papo em vídeo SOS, sem dificuldades."/>
+      </descriptorGroup>
+      <descriptorGroup id="49k6r30XPB5a6i41vMgJwwDt4" name="Service Analytics">
+        <freeeFormValue id="NHhHAlgG1pGQDn3jIUnv6OP90" name="Melhorar toda a equipe de atendimento para oferecer uma experiência impressionante aos clientes."/>
+      </descriptorGroup>
+      <descriptorGroup id="1U6eB1fpaysh383uPOC6xVdY6" name="Field Service Lightning">
+        <freeeFormValue id="jPlw6mT00lUJBRksTeLr3ySoM" name="Garante qualidade de atendimento ao cliente de nível mundial por meio de interações no local."/>
+      </descriptorGroup>
+      <descriptorGroup id="9gl177fRi5hW82ByC3vwF7i81" name="Omni Routing">
+        <freeeFormValue id="xQRM36s1K92L74ssMs54u49c0" name="Fornece atendimento mais inteligente e rápido"/>
+        <freeeFormValue id="s4QPjC77XOGhtYQ9i1x1YLt6C" name="Encaminha o trabalho para o funcionário mais adequado e disponível."/>
+      </descriptorGroup>
+      <descriptorGroup id="2i6MdNlMF65pS51wFY4fHiEls" name="Atendimento ao cliente social">
+        <freeeFormValue id="R6ydqe2HLjU8nL16At5f8Eij8" name="Possibilita a equipe criar, editar e controlar o desempenho na maioria das redes sociais"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="d7vd863752XUcgl0n5R0DQ658" path="https://www.salesforce.com/br/products/service-cloud/features/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="KvdW0j7ji8u0fS5q7oK764ro9" name="INSIGHTLY">
+    <classification id="ci9ns44feChFP9Rdwf73ifV6B">
+      <descriptorGroup id="Qex5D86mrdfvevxfYgQa8Qs80" name="Speed">
+        <freeeFormValue id="ipiyP9s0dx918bxn25fjpNRFc" name="Close tickets and share mission-critical information across your organization faster than ever."/>
+      </descriptorGroup>
+      <descriptorGroup id="qlCJPglHf1AUr3RVdg1Jfyv1F" name="Relevance">
+        <freeeFormValue id="8cxP12Ou32k55ORsJhxxWPii5" name="Get a timely read on current and historical customer status and spark more engaging, relevant conversations."/>
+      </descriptorGroup>
+      <descriptorGroup id="kd1HgSHLohwU3gPw4BJQV2KDr" name="Insights">
+        <freeeFormValue id="p49RCGrQi00Ufum4AUpb7cn4M" name="Empower internal teams with the data they need to perform their roles effectively."/>
+      </descriptorGroup>
+      <descriptorGroup id="17xdXxYDSO03dG18Wrf6i6sIo" name="Seamless Integration">
+        <freeeFormValue id="ALX0Vd4sIvE1BDp9ajT542N1u" name="Service amplifies your visibility into customer health and status."/>
+        <freeeFormValue id="7N57sC156CT5KQDQIOv5UylbI" name="User experience is the same across applications. Break down silos with a robust view of the customer."/>
+        <freeeFormValue id="oRmCr39QBg91C7TloTkejb729" name="Empower your support teams to solve tickets quickly, listen with empathy, and create sales opportunities right in the application."/>
+      </descriptorGroup>
+      <descriptorGroup id="QE4998Y5Kj8m26D1JnT7HtceU" name="Improve Support Insights">
+        <freeeFormValue id="PGgcEtrN7Yyf7yD3k10M6X83O" name="Analyze tickets by support channel and manage team output, schedules, and resources more proactively."/>
+        <freeeFormValue id="3ViJQQ7VAKCq4wMD83igJwdXH" name=" Customizable dashboard cards and reports make it easy to track performance against KPIs in real time."/>
+        <freeeFormValue id="g6fPVKt8A890WPcyx1QRc03tT" name="Insightly can scan keywords and phrases in tickets to get even more insights from every single interaction to drive enhanced customer success and engagement."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="11oB04rgF1BmqOsuBYkuS9pjR" path="https://www.insightly.com/service/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="u8s9IpaDVP7L76X71mda0Hpbe" name="Hubspot CRM">
+    <classification id="AM25VV7lcY8rST9pQQLca3bI8">
+      <descriptorGroup id="12EyLl3eQhhT3Ir3y9mFd804d" name="Management">
+        <freeeFormValue id="M6c65STc20HT1AvTpWWA65b9D" name="Conversations inbox"/>
+        <freeeFormValue id="fY1X36q3ms38P3qbIAeAdI43w" name="Live chat &amp; chatbots"/>
+        <freeeFormValue id="l8C431L8t85mXD6577Gj7FTlB" name="Team e-mail"/>
+        <freeeFormValue id="Hhvl2M8uF31GaAFKB7qtU7736" name="Help desk &amp; ticketing system"/>
+      </descriptorGroup>
+      <descriptorGroup id="NlwtQQav4xS6XhwyM12BqSH16" name="Customer Help">
+        <freeeFormValue id="5BYo1R8q960WMcFp0OAT54o8X" name="Ticketing"/>
+        <freeeFormValue id="FY468NBJHVjW2GxvJcs3HNj8r" name="E-mail templates"/>
+        <freeeFormValue id="006p13m9QduupEUU255AX9Dm6" name="Tickets closed reports"/>
+        <freeeFormValue id="y74WlnpdSgiQ1UkK2Oh0y38xG" name="Time-to-close reports"/>
+      </descriptorGroup>
+      <descriptorGroup id="8M64eQ55TiB9DouJ1Y37bRgXW" name="Customer Relationship">
+        <freeeFormValue id="t6JbLha7wvOx2wN4cQEnKX7h1" name="Contact management"/>
+        <freeeFormValue id="9D7tyPTlbU93kPa0N85v55jtR" name="Contact website activity"/>
+        <freeeFormValue id="lFLFSw0pC6oArafF6wUn6EL28" name="Company insights"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="uFpx0kyySxg012SJ4AG09QPtj" path="https://www.hubspot.com/products/crm"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="cd0UM4K7S7felu1846Lfa63Ry" name="ZOHO">
+    <classification id="53myWFp6i5G4g9WEXaeiTb3U8">
+      <descriptorGroup id="G1STJ2E6siDdhENk3P8Vc60yW" name="Conecte-se com seus clientes onde quer que eles estejam">
+        <freeeFormValue id="roLc1cirER5sJXO1VfKqsN687" name="Alcance clientes em todos os canais: telefone, e-mail, chat ao vivo e mídias sociais"/>
+        <freeeFormValue id="627vKYNxM6PFmLyF18niMFep9" name="Obtenha notificações em tempo real quando os clientes interagirem com sua empresa"/>
+        <freeeFormValue id="gxp570xaK3KAtwWdDcq7A3X9a" name="Meça a eficácia de sua comunicação e descubra o melhor momento e o melhor canal para alcançar seus clientes"/>
+      </descriptorGroup>
+      <descriptorGroup id="os8e0TFbg6hK8CFTM9h7C8lkH" name="Poupe mais tempo com a automação">
+        <freeeFormValue id="fq07b3LjvapWmaFfW7Gue0g90" name="Automatize todos os aspectos do seu negócio e reduza tarefas repetitivas que consomem muito tempo"/>
+        <freeeFormValue id="50HNaDduISk427UWLOGQwPb5v" name="Agilize seu processo de desenvolvimento de leads e aproveite ao máximo a entrada de cada em deles"/>
+        <freeeFormValue id="Wka4wMJ5s0l0B04C7nA3f7m9G" name="Ative ações imediatas, tenha controle das atividades e acompanhe melhor os fluxos de trabalho"/>
+      </descriptorGroup>
+      <descriptorGroup id="L2sY2X2pSKo4pnE96g2HdfLRr" name="Obtenha relatórios e insights em tempo real">
+        <freeeFormValue id="89MoGwQfQDD1M0m6uk7yb4VFj" name="Tome decisões de negócios mais inteligentes com análises avançadas e em tempo real"/>
+        <freeeFormValue id="IM3yXx2LaUXHNo75q3M6Di0UB" name="Meça e gerencie o desempenho de vendas de sua organização em toda a região"/>
+        <freeeFormValue id="35e1wEAQLN3dkn4UvI3K8Q4Ap" name="Monitore os principais indicadores de desempenho, incluindo tendências atuais e previsões futuras"/>
+      </descriptorGroup>
+      <descriptorGroup id="a0PUsKfaWkf8q9Cq71g65F4yJ" name="Inteligência artificial de conversação">
+        <freeeFormValue id="DN99AdFI4Ma97df737sh3rl0t" name="Encontre instantaneamente todas as informações necessárias a partir dos dados de seu CRM com a ajuda da Zia, a assistente de vendas com IA"/>
+        <freeeFormValue id="5381x4AD3mJAbf2Mu4RJda456" name="Obtenha previsões avançadas de leads e negócios com a Zia, para que você possa identificar os leads com maior probabilidade de conversão e, por fim, fechar mais negócios"/>
+        <freeeFormValue id="sfDq9Q6OqhI7wrl5w1U1CYgQK" name="Receba alertas inteligentes, lembretes de tarefas e sugestões sobre os melhores momentos para entrar em contato com seus leads com base em interações anteriores bem-sucedidas"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="rRW0AeGrK56Cwy1NpJ625fETH" path="https://www.zoho.com/pt-br/crm/?src=zoho"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="SuQ5wROQXCDLGWUWM11SSF5HP" name="SUGARCRM ENTERPRISE">
+    <classification id="1C2Jb2ecj9lcBnyxesAWgQJWJ">
+      <descriptorGroup id="VwR9ex9wmpa2X5xwhSox8F98g" name="Simplify and Automate Business Processes">
+        <freeeFormValue id="T125rjc50GW6xr59g36O353vJ" name="Increase the speed at which you respond to customer needs by automating and standardising your business processes. "/>
+        <freeeFormValue id="l67Qs4vef66kHXBEgwfq16MjV" name="You can use a simple, drag-and-drop UI to review and approve quotes, route leads based on company size or customer location, populate emails, and ultimately save yourself and your sales team dozens of clicks."/>
+      </descriptorGroup>
+      <descriptorGroup id="QX6160VCKm5g2AYC94dTJkkM3" name="Do it All​ Without Doing it All Yourself">
+        <freeeFormValue id="x6A645b669GPylt3Db9V0668l" name="Leverage comprehensive sales force automation capabilities including management of contacts, accounts, leads, opportunities, forecasts, support cases, quotes, contracts, communications, mobile, and reporting."/>
+      </descriptorGroup>
+      <descriptorGroup id="35dCELti22PI0v0OSgcoubvPa" name="Let the Platform Enter the Data">
+        <freeeFormValue id="F3N3Nh3AHL2w8gScx37jjslN5" name="Increase your team’s productivity with automated insights from business and social sources."/>
+        <freeeFormValue id="Xc3cQhD61D87lNP7DgDYg5fyw" name="Analyse those insights seamlessly and get relevant updates on strategic accounts with real-time alerts."/>
+      </descriptorGroup>
+      <descriptorGroup id="NMa16bvcWL8fjye18325m1Jb5" name="Gain Flexibility, Remove Hassles​">
+        <freeeFormValue id="27GQm44T64gx4Ut4DJNjtgeTL" name="Never get locked into inflexible, proprietary technology that requires specialised consultants to make changes when you choose Sugar Enterprise.​​"/>
+      </descriptorGroup>
+      <descriptorGroup id="jG175535q6RuBgc2Oi8rBUwT5" name="Improve Your Customer’s Journey">
+        <freeeFormValue id="2w8w4GtJAY3Uv4ElNF78e54Vq" name="Create and visualise your customer’s journey"/>
+        <freeeFormValue id="fnFNmKoFl85syBTv0Vr7th3no" name="Ensure everyone is working together and informed about what actions to take at every step along the way to improve the customer experience."/>
+      </descriptorGroup>
+      <descriptorGroup id="UpUh9AE34Stn7T1j3qhan82Jm" name="Stay Productive on the Road">
+        <freeeFormValue id="260bGYn65eQL56w0y0kEAd3uL" name="Make it easier for your workforce to be as productive on their phone or tablet as they are on their laptops or desktops. "/>
+        <freeeFormValue id="8ss47kM9jhvx1c2t99Uw1tk6J" name="Sugar Mobile’s highly customisable app empowers your sales and marketing teams to prioritise what is most important and get notifications of any changes in their customer’s needs."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="jtB7OJRB9N5O1M37cku6grI5T" path="https://www.sugarcrm.com/uk/solutions/sugar-enterprise/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="A7HbGFUiJN30a073Vd1UUB29g" name="BUDDY CRM">
+    <classification id="UiBd6x15I9dPucu0YmW8WrHA2">
+      <descriptorGroup id="8AQAVK52878w0V90KV31k6i38" name="Contact Management">
+        <freeeFormValue id="4588fBq2049L5Dv0lY51tn72K" name="Deliver tailored sales experiences with in-depth contact and account management."/>
+      </descriptorGroup>
+      <descriptorGroup id="SjPXPDEH7u625C5Gcd8usV3jo" name="Support">
+        <freeeFormValue id="aNinvLx664E3nyPjljysrNQCX" name="Superb UK-based support to help you manage your sales transition."/>
+      </descriptorGroup>
+      <descriptorGroup id="5SC2K7pE3Y969g2qCL2BSa72G" name="Email Marketing">
+        <freeeFormValue id="whc1y5Q9WyJ7iCtWvQr568nmC" name="Create native HTML emails and email to specific customer segments."/>
+      </descriptorGroup>
+      <descriptorGroup id="7Q0Nbp5L1QOXsPgVUApd4bn6E" name="Sales Pipeline">
+        <freeeFormValue id="VRMR7tdp5mb5n7A83fKSO1N02" name="Track your deals with the sales pipeline."/>
+        <freeeFormValue name=""/>
+      </descriptorGroup>
+      <descriptorGroup id="c7XK18WM8KiCr8R05dkWKCJsK" name="Workflows">
+        <freeeFormValue id="J8S7D35lbYn64922B8NS3dKuI" name="Automate your repetitive tasks "/>
+      </descriptorGroup>
+      <descriptorGroup id="n4Q438CnnxcM7AkMusuu563Oi" name="Quotes">
+        <freeeFormValue id="N0Mb59uSVVfTJT20m3293Kd48" name="Create detailed quotes"/>
+        <freeeFormValue id="6eM323YAXk0SKG45RsdJpQ5Qy" name=" Send them directly to your contacts."/>
+      </descriptorGroup>
+      <descriptorGroup id="5ET655VCAYr4uA3xp15g1GNV8" name="Reporting">
+        <freeeFormValue id="TXAr3q2Ev365yHy1dHL20gmhj" name="Report on everything stored in your CRM."/>
+        <freeeFormValue id="hL055sv2L48B1yq8hgtLC7fSP" name="From activities, leads, and tasks through to sales and accounting information."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="AQ7xut80LuWd0fYsY1UeVwq49" path="https://buddycrm.com/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="1E8t0yGR77jT4h525j4XgA607" name="ONEPAGE CRM">
+    <classification id="Tgxm5w2rJbMi95gK7wH6D218m">
+      <descriptorGroup id="Y905UTYA01pf9QxPI3S1h5nl4" name="Contacts">
+        <freeeFormValue id="yxR64928HdxYD69LOtA9aCu45" name="Contact Management Software"/>
+        <freeeFormValue id="6kA8M6XX22BU42o6RhIUBhD4J" name="Log calls and notes"/>
+        <freeeFormValue id="Q0438E6FnTV79lgLCSyLd1U2p" name="From lead to customer"/>
+        <freeeFormValue id="rhUfTWK1XeDUy7uOA3r5QA973" name="Detailed view of all related details"/>
+      </descriptorGroup>
+      <descriptorGroup id="iKnXvTlWt6G5PtonxSuVkO42P" name="E-Mail">
+        <freeeFormValue id="Mbi5R97Pyes7t40C19dUjK52C" name="Full e-mail sync"/>
+        <freeeFormValue id="ArWdVyIfrc314LFcoTC1EcwU6" name="Custom Templates"/>
+        <freeeFormValue id="GkJ9HnQUGy4FVOP09AT2iouPt" name="Personalized e-mails"/>
+        <freeeFormValue id="psXg8vf206K144DkKqxDoU4u2" name="Track e-mails opens"/>
+      </descriptorGroup>
+      <descriptorGroup id="pTXBeoHF5rQT9vY8C93t3F1M2" name="Automation">
+        <freeeFormValue id="K28xYL38S58JA5MxH8ngYF146" name="Generate leads in a click"/>
+        <freeeFormValue id="e9ylsnO1hBnVKqU724E2F79QB" name="Enhance contacts with social data"/>
+        <freeeFormValue id="hhqJMj7b5qtao6880wtymw9B0" name="Pre-built actions"/>
+        <freeeFormValue id="J3AQsJg508yQ4Til7CVo5sI8w" name="Smart set up deals"/>
+        <freeeFormValue id="RcFstlLqL4aPak4Mv571sLn9d" name="Fast build and e-mail quotes"/>
+        <freeeFormValue id="VTw4PUf69Tqw5crYSsT6uNICD" name="Automate repetitive sales tasks"/>
+      </descriptorGroup>
+      <descriptorGroup id="Q8333QdJ8yVHoYa4wDDjt0f5u" name="Pipeline">
+        <freeeFormValue id="iw2rd1vp6vsSP0334r3fm12Ba" name="Easy set up deals"/>
+        <freeeFormValue id="d1kM37hBsU552KRX7n9Cx1J0y" name="Sales Pipeline Management"/>
+        <freeeFormValue id="32AnyB9c5yG7wh5h2P4oTkAqI" name="Drag-and-drop functions"/>
+      </descriptorGroup>
+      <descriptorGroup id="vcVlPuE3bU5e4jvLfN0TbCF38" name="Reporting">
+        <freeeFormValue id="fuL5Kvdu4o1Bw26wre7FtTviM" name="Real-time activity feed"/>
+        <freeeFormValue id="jyQR47ad44R3Lh2H9I9To9q48" name="Custom reports"/>
+        <freeeFormValue id="Amt5vWv0Bn6jyCmUk22Q2Bq7Y" name="Reports delivered in inbox"/>
+      </descriptorGroup>
+      <descriptorGroup id="4EJC9cGYdc5SomENht9L116Cv" name="Mobile">
+        <freeeFormValue id="LOtA2X306d0h0bsaBKADUPL0O" name="Multplatform and multdevice"/>
+        <freeeFormValue id="l7nSg6OreFk6DJ38Xro7Pfh4D" name="Speed Dialer"/>
+        <freeeFormValue id="fDXi78B57sg904a0CJGWhhBnb" name="Send and log emails from mobile CRM"/>
+        <freeeFormValue id="aM88BJ5VMIyclgG415R1mDAi0" name="Log calls and notes"/>
+        <freeeFormValue id="GEE649B57fXn9OLgU4Sld9mXm" name="Integrated Maps"/>
+        <freeeFormValue id="dgOP18d58Q838Vx6BuWA61vvF" name="Contacts sync"/>
+        <freeeFormValue id="WmL1q4Gc933dAnjuCk5nR85EA" name="Easy collaboration"/>
+      </descriptorGroup>
+      <descriptorGroup id="350798wh6sqS2Rfs882O5gwc0" name="Collaboration">
+        <freeeFormValue id="cO8NoJfNn9I01vc2j0CA46uHC" name="Assign contacts and deals"/>
+        <freeeFormValue id="5q32t9896O8916Fh0FLcj8n45" name="Team's activity feed"/>
+        <freeeFormValue id="qyaRSNoJA6NA86B1UrL26kqX6" name="Notes, comments and mentions "/>
+      </descriptorGroup>
+      <descriptorGroup id="3b10Aqi59wj66W5jBesG31HC7" name="Integration">
+        <freeeFormValue id="d9mIknSPBA77i575fC7GDb5H9" name="Chrome extensions"/>
+        <freeeFormValue id="Y5mu37S63D91kVi58rGKX1cp7" name="Wufoo"/>
+        <freeeFormValue id="SEErNGOC244Fq9hBSoYtq2Qeu" name="Email"/>
+        <freeeFormValue id="IyKtvPtTLC0HLgSM5V5n9s9rR" name="Skype"/>
+        <freeeFormValue id="6l3mdV62I481Y4uDdgMIx727c" name="Google Contacts"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo>
+      <location id="I8Q303SdEd1HLBsm181n56820" path="https://www.onepagecrm.com/"/>
+    </downloadInfo>
+  </assets>
 </rasppmde:Repository>
