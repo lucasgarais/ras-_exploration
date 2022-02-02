@@ -12,7 +12,7 @@
         <freeeFormValue name="Model transformation"/>
       </descriptorGroup>
       <descriptorGroup name="Artifact Development Contexts">
-        <freeeFormValue name="Research Project"/>
+        <freeeFormValue id="HD6JPPMvAmdLF2Je2cxoTWbHr" name="Research Project"/>
       </descriptorGroup>
       <descriptorGroup name="System/Software Domains">
         <freeeFormValue name="Model transformation"/>
@@ -41,13 +41,172 @@
       </descriptorGroup>
     </classification>
     <solution id="1kc53ctv2r2158Udm1F8nUso9"/>
-    <downloadInfo>
+    <downloadInfo id="I47Xgr0cQVS6j0d7TV5RN9CAB">
       <location id="10dur6O1wU46JCU29wi4gI97D" path="None"/>
-    </downloadInfo>
-    <downloadInfo id="AYeyc7nr26M8uBPA3oli0d8cN">
-      <location id="954wSo22n9JBKMBI3V40jaOi7"/>
     </downloadInfo>
     <assetDependencies id="U2sf6Hm9524o80USVG4sWku15" name=""/>
     <roles id="TCNi9sbLMtrLKDKNxWAdqP8vY" name=""/>
   </assets>
- </rasppmde:Repository>
+  <assets xsi:type="rasppmde:ReusableAsset" id="37vr9P75e359brq9wEIt1ojjo" name="SENDINBLUE">
+    <classification id="553oA5tnQ9tW04lQLVk2vajeu">
+      <descriptorGroup id="uqqa4Lj73G6Wo7b7vE9s1w1Km" name="Configure imediatamente">
+        <freeeFormValue id="wUhesg6stDUF7OE45tiR6If2L" name="Sem necessidade de instalação ou serviço especial"/>
+      </descriptorGroup>
+      <descriptorGroup id="0YaWnfccrn1Mvg2eYKW817hP5" name="Centralização de dados de contatos">
+        <freeeFormValue id="rFwxArG80l3n26CPd1snQcicI" name="Armazene todos os dados que tiver dos contatos"/>
+        <freeeFormValue id="5510WyW90hHE0k9J51p4lG5L5" name="Atualizações necessárias realizadas de uma só vez"/>
+      </descriptorGroup>
+      <descriptorGroup id="Q9K8OkUFKP7jkL561ECwrwdOU" name="Organização de contatos para comunicação eficaz">
+        <freeeFormValue id="r6lea8joEd9JF8Evt2bgBBuH1" name="Utilização de listas para organizar contatos com base em características semelhantes"/>
+      </descriptorGroup>
+      <descriptorGroup id="RJ86KJIvJlK44AX0SWHI221QV" name="Mantenha o controle e nunca perca uma oportunidade">
+        <freeeFormValue id="8N3SBK0kt9E1x7VDha5mvWs1o" name="Crie tarefas em seu CRM, atribuindo a diferentes membros da equipe e coloque um prazo"/>
+        <freeeFormValue id="8y9nu9foMuN9QSpYW76VD0o2y" name="Automação de e-mails de acompanhamento"/>
+        <freeeFormValue id="M3hIRbexIqSxqv9r09wSio9c1" name="Lista de gestão de contatos usando automação de marketing"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="G7byTS6Tw20BA7K7nc6Gw0H9W">
+      <location id="MOwFpYS1818Y9Kd963068u8Qq" path="https://pt.sendinblue.com/funcionalidades/crm/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="tbVRXSo458QX4wi0nK0GRq5sI" name="PIPEDRIVE">
+    <classification id="4PH5jXoKjAHgYCkyc72H6r1ND">
+      <descriptorGroup id="GPx4rT920qtFoG29Pl0Mv4Cwu" name="Automatização">
+        <freeeFormValue id="y25ngf9CW53by8Os10aXrO10C" name="Melhoria de fluxo"/>
+        <freeeFormValue id="H90rlks8i89aE9cYRFm671YO9" name="Economia de tempo"/>
+        <freeeFormValue id="dG5o0e59dF22i7bFTQOx13D35" name="Diminuição de despesas"/>
+        <freeeFormValue id="09aWOQ8DOyL2kWVSW61Xu47PR" name="Automatização do processo de vendas para toda sua equipe"/>
+        <freeeFormValue id="aBF0M5QkS7cyoeCeaMk5Nmdb0" name="Permitindo a nutrição de leads automática "/>
+        <freeeFormValue id="pmtCg2Tncbkkd1M0607g4iPTX" name="Criação de gatilhos e ações desejadas "/>
+        <freeeFormValue id="O1e719mAMa23iLTmMOs11F2EL" name="Automatização de modelos de e-mail personalizados"/>
+      </descriptorGroup>
+      <descriptorGroup id="RRtlv0J5x5ctdXL205w5qWG3q" name="Insights e relatórios">
+        <freeeFormValue id="hK5TQ7H06OmQ5GdbePfo9dusB" name="Descubra quais são os padrões vencedores e os problemas"/>
+        <freeeFormValue id="1HEwkhCS2lCxlb1V3vPKa20Ds" name="Campos personalizados aos relatórios para registrar e monitorar qualquer variável"/>
+        <freeeFormValue id="kD4e0fiIaF160y5koS85X1WA5" name="Filtrar e revelar os padrões vencedores ou gargalos"/>
+        <freeeFormValue id="c2eE41C8fCd5OpT6X04VVPu8L" name="Relatórios e KPIs mais importantes em um único lugar centralizado para fácil acompanhamento"/>
+        <freeeFormValue id="8MfQn4rDC5pDG124qP52xV3TK" name="Estabelecimento de metas individuais, para a equipe ou empresa e acompanhar o progresso com métricas em tempo real"/>
+      </descriptorGroup>
+      <descriptorGroup id="ty9h2TU6HpMi767P4p3n121bm" name="Monitoramento de comunicações e e-mail">
+        <freeeFormValue id="73NON1fg1qi2wSqqnh46hOO6d" name="Monitoramento robusto de comunicações e e-mail"/>
+        <freeeFormValue id="Ud1JxGIV8I6PrVBdft1Wm73O8" name="Gerenciamento automático de conversas de vendas conectando-as a negócios e contatos"/>
+        <freeeFormValue id="Ew3wy03C34n5518l4dok8eTSE" name="Notificação em tempo real sempre que seus e-mails forem abertos ou por click de clientes"/>
+        <freeeFormValue id="eJmO0fG57ndKu8d651S7KxRB7" name="Sincronização bilateral"/>
+        <freeeFormValue id="Fwc9Cqdm9eXjD8P6t966cgk7M" name="Modelos pré-prontos de e-mail e recursos de e-mail de grupo"/>
+      </descriptorGroup>
+      <descriptorGroup id="7737IkKP2BI6PchDJyS9YqWg9" name="Integração de chat interna">
+        <freeeFormValue id="CgeH4KT28p7hP6VbAx7xG0cb6" name="Atribua pedidos de chat em seu site para representantes de vendas"/>
+      </descriptorGroup>
+      <descriptorGroup id="Vfr1KNY557XP15Fs4TI9867y0" name="Gestão de tarefa">
+        <freeeFormValue id="YkKINPBEH4RMJeiCq5tjSfa9H" name="Gerencie todas as tarefas relacionadas a vendas em um só lugar"/>
+      </descriptorGroup>
+      <descriptorGroup id="7tDE048j5XHJocN4SXR2a5DTy" name="Faturas e cobranças">
+        <freeeFormValue id="uU31bm835W15XYXIDaiCaR3W5" name="Crie e envie fatures usando seu aplicativo de pagamento direto do Pipedrive"/>
+      </descriptorGroup>
+      <descriptorGroup id="70P5wRXQW2UyKtnQ2w9L8BQ7n" name="Qualificação de leads">
+        <freeeFormValue id="phdSGuwOtv9GBA60Xiac3sWJw" name="Aproveite os recursos dedicados à qualificação de leads"/>
+      </descriptorGroup>
+      <descriptorGroup id="yeqU8qJCTcIcbeg53146T9mx9" name="Gestão de relacionamento com o cliente">
+        <freeeFormValue id="mkc2w46LL48vFSv0bw36bXnxG" name="Não perca mais negócios"/>
+      </descriptorGroup>
+      <descriptorGroup id="wSXJbq8G0UD2X6bUv3LBHU13k" name="Personalização">
+        <freeeFormValue id="d44c3jm17DWq5k4pgv6QsdMQu" name="Adapte seus processos para as necessidades da sua empresa"/>
+      </descriptorGroup>
+      <descriptorGroup id="b35kPwDYi6A3fcpS27IPCiYWo" name="E-mail e comunicações">
+        <freeeFormValue id="28Do83mYX2ie5XE4hX9MAlpTc" name="Faça o follow up com o contato certo na hora certa"/>
+      </descriptorGroup>
+      <descriptorGroup id="kV7eBADgk57AQtyG036y05b9J" name="Integrações">
+        <freeeFormValue id="vWiuir9k0a7EMg2560DKPuCyO" name="Faça a integração com mais de 275 aplicativos"/>
+      </descriptorGroup>
+      <descriptorGroup id="p7H8qW7uqCj1xLatX9HL6272w" name="Leads">
+        <freeeFormValue id="i6xbgU57q4X2HnSMUQSG5O91t" name="Agrupe seus leads em um só lugar"/>
+      </descriptorGroup>
+      <descriptorGroup id="fDt83Sgs0B9MabAfN0mqxpGTp" name="Privacidade e segurança">
+        <freeeFormValue id="vN9464hiSOo4R775jWq3m2i7w" name="Proteja dados importantes com recursos avançados de segurança"/>
+      </descriptorGroup>
+      <descriptorGroup id="KCeOhX4G1RES8L5mxAOm2BmGv" name="Processos, funil e atividades">
+        <freeeFormValue id="l3W6LNTf5R1NfdarMT495OTQy" name="Melhore seus processos de vendas"/>
+        <freeeFormValue id="neSJAFtW1MPQY91R4S4uBEKJ0" name="Coloque sua equipe no caminho para o sucesso com relatórios de funil"/>
+        <freeeFormValue id="J23MQ9LU7Um3vKA41xU43P963" name="Recursos para gestão de processo e equipe"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="Lw1s9uONw2VmT55Ow2N6q7N6o">
+      <location id="TOX33mi4BwWt2g6P9iPM0j546" path="https://www.pipedrive.com/pt/products/sales"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="53wH43gJ32DmhXjIYdCXLt4Xd" name="PLOOMES">
+    <classification id="0AS7i570Q7bD2OIAM7O5A4T55">
+      <descriptorGroup id="M0X80Qd4mHieG1L3WeGxfe6K7" name="Visão 360º de clientes">
+        <freeeFormValue id="7859FHDMsSKb0600IdDgM6047" name="Centralização de dados dos clientes, atualizados e de fácil acesso"/>
+      </descriptorGroup>
+      <descriptorGroup id="s0M6YbyUUHhxHme9sel6kMr0K" name="Segmentações">
+        <freeeFormValue id="36Mrvgr4J1Bku821WEtymcNX9" name="Listas de clientes por região, vendedores, segmento, porte, entre outros"/>
+      </descriptorGroup>
+      <descriptorGroup id="2V62brwqvm7w7cCm4YdLy5ceO" name="Gestão automatizada">
+        <freeeFormValue id="mh6v6ghpPHjFS1a360Fp3hPO6" name="Controle de renovações, ciclos, entre outras ações de pós-venda"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="vJ2gN66FFH80NtbYHU1uVH69d">
+      <location id="96votLmhHy4TQ113Gf56fHyl2" path="https://www.ploomes.com/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="X5ttmWy92xn97mua1m64oD9b8" name="JIVOCHAT">
+    <classification id="4SEi0no0Drj85L6A6UeyO95gE">
+      <descriptorGroup id="7kEhcry334lGNN4u9g4lB8i4k" name="10 minutinhos para começar">
+        <freeeFormValue id="XyB2u6NFY69vy0IbK1o4Om8Gp" name="Interface intuitiva e não requer treinamento para a equipe"/>
+        <freeeFormValue id="rPA6xRlrYAIqBC62djPR8WIi8" name="Fácil de entender e aprender a usar todas as funcionalidades do sistema CRM"/>
+      </descriptorGroup>
+      <descriptorGroup id="onmjfQ50BmF0m8sSNXthEl4oc" name="Crie novas negociações diretamente no chat">
+        <freeeFormValue id="S2YDjRH21WRurm4fwtb76a9hT" name="Criação de negociações enquanto conversa com clientes no chat"/>
+        <freeeFormValue id="Q4X1DpHDEc94n61OXN9kEbrcU" name="Conecte todos seus canais de comunicação para visualizar o histórico de conversas"/>
+        <freeeFormValue id="8bCf90UGo269gy296W43tsRvd" name="São captadas todas as solicitações, o estrado das negociações e o resultado do trabalho da equipe"/>
+      </descriptorGroup>
+      <descriptorGroup id="dD2bO2kpghFEAfWKu3FA70QIu" name="Acompanhe tudo de perto">
+        <freeeFormValue id="H883g4x9fNPj3sxy8WV9pyUff" name="Agende tarefas no aplicativo para acompanhar tudo de perto."/>
+        <freeeFormValue id="a7tfYY2B18MKQs1s7U3yxAtnI" name="Enviado de notificação no horário marcado"/>
+      </descriptorGroup>
+      <descriptorGroup id="4i1in1su1uAe4J7Nhf4q7XHhO" name="Personalize o CRM como preferir">
+        <freeeFormValue id="6KtLatBod09W7P7aHqY8EraNa" name="Criação de etapas do próprio funil de vendas de acordo com processos"/>
+        <freeeFormValue id="Xo4AHCY1k5oCXE27YCM2U1B4P" name="Criação de vários funis para situações com diferentes clientes"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="eW6R73e3u995Xjn1wa8j64hKW">
+      <location id="P9NnGJerr7v24438CTbuwJ013" path="https://www.jivochat.com.br/crm/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="35SLBqCaLAc7sYb37087316Ci" name="RD STATION CRM">
+    <classification id="DEHSrTDD45lLnc9Y1Pv5aTXCv">
+      <descriptorGroup id="dl9g82jo98asBORdA58l9Jbuf" name="Automatize processos comerciais">
+        <freeeFormValue id="Twpj5fJ91yk86aQ7a254bLdVC" name="Organize os diferentes processos da sua empresa no CRM "/>
+        <freeeFormValue id="E5AYe4dMH5Ru1RMbwhGKl7jg4" name="Automatize tarefas repetitivas para poupar tempo dos vendedores"/>
+      </descriptorGroup>
+      <descriptorGroup id="v5PxMQmWFqV7jKJHEllS63612" name="Gerencie equipes e vendedores">
+        <freeeFormValue id="esNE7A199WdOPBevQoBkH47EA" name="Faça a gestão de uma ou mais equipes, com diferentes níveis de visibilidade por pessoa, e compare resultados."/>
+      </descriptorGroup>
+      <descriptorGroup id="K9C9eG8Q07yVAFmQdVKU81226" name="Registre tudo no histórico">
+        <freeeFormValue id="ItHj0EedG7e24lCU7o9V049RU" name="Tenha cada interação via WhatsApp, Telefone e Email registradas"/>
+        <freeeFormValue id="6t3My7YIqumlQ2CgPw71rfYC1" name="Melhore o atendimento, da abordagem até a venda"/>
+      </descriptorGroup>
+      <descriptorGroup id="FM8xFXANX4fD59Au104t5xvi1" name="Nunca esqueça compromissos">
+        <freeeFormValue id="R6QV3NG2tKaxKP0NNrLmo65h6" name="Integre o CRM com a agenda pessoal para não perder follow ups"/>
+        <freeeFormValue id="B31T0nnStBKRAQax0436AohGP" name="Diminua o tempo de contato com cada oportunidade."/>
+      </descriptorGroup>
+      <descriptorGroup id="oeN3J1N4qrc09oW4h728jW2r1" name="Venda sem sair do WhatsApp">
+        <freeeFormValue id="taDm0e9kThl3KqN0jw5yx3GB5" name="Adicione a extensão gratuita WhatStation ao CRM"/>
+        <freeeFormValue id="q37isuL1edfxM5405wym4pl19" name="Gerencie suas negociações e suas vendas sem sair do Whatsapp Web."/>
+      </descriptorGroup>
+      <descriptorGroup id="a8D2LXI2o9s9IMeS20y8lLxUw" name="Cresça com previsibilidade">
+        <freeeFormValue id="93672XglJg244AnKVkPIN28W2" name="Acompanhe e compare resultados em diversos relatórios sobre performance comercial e corrija processos."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="Emn9XTfLuhPcvQJpEqC1j1nvw">
+      <location id="yv6M7dv6bUM0951Juaj07T58P" path="https://www.rdstation.com/crm/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="D0yhTmjbBf74gGg69FM34UUJb" name="FLEEG"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="7P7F0A18W1qNO9fE186s2b4m9" name="FRESHSALES"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="p4XfJ5750b1ux9IRqod9IqkO3" name="CRM PIPERUN"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="Yr26200IEKrWh3AV0C9QOYiqa" name="CLIENTAR CRM"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="l00eWlQYh83Q57J8S4g5QIpGK" name="SENIOR"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="j3RM8SbLCefo4BCpF2o8v7Fkf" name="MEETS CRM"/>
+</rasppmde:Repository>
