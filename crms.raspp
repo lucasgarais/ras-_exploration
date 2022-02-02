@@ -209,7 +209,7 @@
         <freeeFormValue id="s7QsV746vURTXx0YlikofI3t2" name="Cadastre todas as informações dos seus contatos e aponte todas as suas interações com ele."/>
         <freeeFormValue id="onOoqGmSI1D2K3f96Jk71TYU3" name="Criação de uma linha do tempo com todo o histórico daquele cliente com a sua empresa"/>
       </descriptorGroup>
-      <descriptorGroup id="mm2bO5CwSR1Og3sYeJ1QCl7K2" name="Pipe de Vendas">
+      <descriptorGroup id="mm2bO5CwSR1Og3sYeJ1QCl7K2" name="Pipeline de Vendas">
         <freeeFormValue id="qJ6lQ84li1OQ7D0yj71bIR0u4" name="Em uma única tela, no formato Kanban, sua equipe poderá acompanhar todas as oportunidades ativas"/>
         <freeeFormValue id="HF9xiRgEFFesf8a4cj8baW959" name="Estágio de pipelines: descoberta, contato em andamento, proposta enviada, negociação ou proposta final."/>
       </descriptorGroup>
