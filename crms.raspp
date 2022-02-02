@@ -8,31 +8,31 @@
         <freeeFormValue id="5frPAFnw5gpR66ss4hYDLX82j" name="Descritor de oportunidades"/>
       </descriptorGroup>
       <descriptorGroup id="8Ax864xSvA806LWKvvME1Gd71" name="Artifact Types">
-        <freeeFormValue name="Metamodel"/>
-        <freeeFormValue name="Model transformation"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Metamodel"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Model transformation"/>
       </descriptorGroup>
-      <descriptorGroup name="Artifact Development Contexts">
+      <descriptorGroup id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Artifact Development Contexts">
         <freeeFormValue id="HD6JPPMvAmdLF2Je2cxoTWbHr" name="Research Project"/>
       </descriptorGroup>
-      <descriptorGroup name="System/Software Domains">
-        <freeeFormValue name="Model transformation"/>
+      <descriptorGroup id="UN2olrpxNm1CG4Tlpq38qTbaO" name="System/Software Domains">
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Model transformation"/>
       </descriptorGroup>
-      <descriptorGroup name="Lifecycle Phases">
-        <freeeFormValue name="Validation/Verification/Analysis"/>
+      <descriptorGroup id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Lifecycle Phases">
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Validation/Verification/Analysis"/>
       </descriptorGroup>
-      <descriptorGroup name="Modeling Languages/Notations">
-        <freeeFormValue name="MEGAF"/>
-        <freeeFormValue name="MegaL"/>
-        <freeeFormValue name="class diagram"/>
+      <descriptorGroup id="UN2olrpxNm1CG4Tlpq38qTbaO" name="Modeling Languages/Notations">
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="MEGAF"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="MegaL"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="class diagram"/>
       </descriptorGroup>
       <descriptorGroup id="d4REff0VVd9480DD2iNskAuhx" name="Keywords">
-        <freeeFormValue name="megamodels"/>
-        <freeeFormValue name="macromodels"/>
-        <freeeFormValue name="technology models"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="megamodels"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="macromodels"/>
+        <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="technology models"/>
         <contained id="Uf42he4Wvfb95JpBn56kn8b0n" name="Keywords">
-          <freeeFormValue name="megamodels"/>
-          <freeeFormValue name="macromodels"/>
-          <freeeFormValue name="technology models"/>
+          <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="megamodels"/>
+          <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="macromodels"/>
+          <freeeFormValue id="UN2olrpxNm1CG4Tlpq38qTbaO" name="technology models"/>
         </contained>
       </descriptorGroup>
       <descriptorGroup id="8vdwi3PixMGJXw96mRbpkhuAv" name="Oportunidades">
@@ -203,10 +203,199 @@
       <location id="yv6M7dv6bUM0951Juaj07T58P" path="https://www.rdstation.com/crm/"/>
     </downloadInfo>
   </assets>
-  <assets xsi:type="rasppmde:ReusableAsset" id="D0yhTmjbBf74gGg69FM34UUJb" name="FLEEG"/>
-  <assets xsi:type="rasppmde:ReusableAsset" id="7P7F0A18W1qNO9fE186s2b4m9" name="FRESHSALES"/>
-  <assets xsi:type="rasppmde:ReusableAsset" id="p4XfJ5750b1ux9IRqod9IqkO3" name="CRM PIPERUN"/>
-  <assets xsi:type="rasppmde:ReusableAsset" id="Yr26200IEKrWh3AV0C9QOYiqa" name="CLIENTAR CRM"/>
-  <assets xsi:type="rasppmde:ReusableAsset" id="l00eWlQYh83Q57J8S4g5QIpGK" name="SENIOR"/>
-  <assets xsi:type="rasppmde:ReusableAsset" id="j3RM8SbLCefo4BCpF2o8v7Fkf" name="MEETS CRM"/>
+  <assets xsi:type="rasppmde:ReusableAsset" id="D0yhTmjbBf74gGg69FM34UUJb" name="FLEEG">
+    <classification id="R7qnWr3SqgJKB9tH6B41PRke6">
+      <descriptorGroup id="sQWNQA9lSuYFVy87hB5r6PMl7" name="Registro de contatos, tarefas e oportunidades">
+        <freeeFormValue id="s7QsV746vURTXx0YlikofI3t2" name="Cadastre todas as informações dos seus contatos e aponte todas as suas interações com ele."/>
+        <freeeFormValue id="onOoqGmSI1D2K3f96Jk71TYU3" name="Criação de uma linha do tempo com todo o histórico daquele cliente com a sua empresa"/>
+      </descriptorGroup>
+      <descriptorGroup id="mm2bO5CwSR1Og3sYeJ1QCl7K2" name="Pipe de Vendas">
+        <freeeFormValue id="qJ6lQ84li1OQ7D0yj71bIR0u4" name="Em uma única tela, no formato Kanban, sua equipe poderá acompanhar todas as oportunidades ativas"/>
+        <freeeFormValue id="HF9xiRgEFFesf8a4cj8baW959" name="Estágio de pipelines: descoberta, contato em andamento, proposta enviada, negociação ou proposta final."/>
+      </descriptorGroup>
+      <descriptorGroup id="2iL1bkd867bAQBIbyHQKBO3F2" name="Ranking de Vendas">
+        <freeeFormValue id="f24v43ojg9uVa666Ad4I85JVV" name="Acompanhe o ranking dos vendedores que mais fecharam negócios durante o mês e trabalhe recompensas e benefícios através do dashboard do Fleeg"/>
+      </descriptorGroup>
+      <descriptorGroup id="0B0rI4AsgK7Bp4xlh28aWwG05" name="Registro de tarefas por voz">
+        <freeeFormValue id="19AYKsG6lTL39qIYt0MGhOwl5" name="Registro de reunião transcrito automaticamente"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="uO4A9hVifEd2hocQHk1N30k36">
+      <location id="63nWQNhh70D1PLQ3wenoL2H6N" path="https://fleeg.com/produto/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="7P7F0A18W1qNO9fE186s2b4m9" name="FRESHSALES">
+    <classification id="f551vQYM426tm55Vq7N3v66J2">
+      <descriptorGroup id="7n99X0GiyNvQXL8fEB9Kh1Me4" name="Melhore a eficácia do vendedor">
+        <freeeFormValue id="BJ50L2trwMsf8hUO6Km5Hd4i1" name="Tenha conversas com contexto"/>
+        <freeeFormValue id="1I9Vu4W2279482X454i75wra8" name="Automatize tarefas demoradas"/>
+        <freeeFormValue id="WTjReh9CAC1Rq5pbbiIlpE03B" name="Dedique tempo valioso a vender, não a inserir dados"/>
+      </descriptorGroup>
+      <descriptorGroup id="10x8iyp2GYuN42e708TYEdb6l" name="Acelere o crescimento da receita com venda contextual">
+        <freeeFormValue id="AASC1LfpG62116kyl1jQK1Ux7" name="Obtenha uma visão em 360 graus das interações dos clientes"/>
+        <freeeFormValue id="Ku5ANH6iRp4EMI5xcfFyrlMFX" name="Proporcione experiências de compra personalizadas"/>
+        <freeeFormValue id="4V539w115xY6gRFUvhNAWl4HK" name="Interprete dados com análise visual avançada para tomar decisões respaldadas por dados que geram receita"/>
+      </descriptorGroup>
+      <descriptorGroup id="IJ7VbgHM0rM280cECk02gWnLD" name="Reduza os custos e a complexidade da TI">
+        <freeeFormValue id="7l5RRK4yhxc4HSB0pf65lSsTy" name="Mantenha as equipes satisfeitas com uma solução multifuncional acessível, fácil de implementar e mais simples de usar."/>
+        <freeeFormValue id="2L6G0rIw24d2cP3aav4TO2c8C" name="Aumente a adoção, reduza os custos e eleve o moral."/>
+      </descriptorGroup>
+      <descriptorGroup id="m0dfn4UQd2euyr2u4qIo43FeC" name="Concentre-se nos melhores leads. Gere mais oportunidades.">
+        <freeeFormValue id="CNW8gD0UOp25O5NYNUI4epoEE" name="Use Chatbots desenvolvidos com IA para conversar com os visitantes em tempo real"/>
+        <freeeFormValue id="c91oIKvdkFw0w4166Ai7clkh3" name="Capture informações do visitante com Formulários da Web personalizáveis"/>
+        <freeeFormValue id="SO9n7OBP0e8fHf16j8yVIekA4" name="Entenda a intenção do visitante. Acompanhe visitas a páginas e ações no seu site."/>
+      </descriptorGroup>
+      <descriptorGroup id="valw77hmlxaQRXvcy0gSbqaL4" name="Engajar-se no contexto">
+        <freeeFormValue id="9S54v1d5wU1K77iqN0d2XE171" name="Entenda os níveis de interesse e engajamento com a Linha do tempo da atividade"/>
+        <freeeFormValue id="781oyM348V0JvadX45x1KK34b" name="Foque as melhores oportunidades com Pontuação de contato preditiva"/>
+        <freeeFormValue id="828c3Sqn2uG7qSL0OXhq1KS9q" name="Comunique-se perfeitamente com contexto entre canais: telefone, e-mail, chat, SMS"/>
+      </descriptorGroup>
+      <descriptorGroup id="qKPEhRV17T5I3nD71v6073Sj4" name="Fechar negócios com mais rapidez">
+        <freeeFormValue id="87eA045l9T2H149s22718An3E" name="Encontre os melhores negócios para fechar com insights de negócio baseados em IA"/>
+        <freeeFormValue id="9JK7gxaP3u1TsIEnhN97sW6lL" name="Colabore entre equipes em tempo real com a integração do Slack"/>
+        <freeeFormValue id="3yv7x0xsR2REFXhMUOHmTqd4e" name="Melhore a previsibilidade com Previsões dinâmicas"/>
+      </descriptorGroup>
+      <descriptorGroup id="VC01UUA2rUAlxQni1NP2lf202" name="Incentivar relacionamentos com o cliente">
+        <freeeFormValue id="3iodahXrLbiJ8JWF3gTg45N2W" name="Una as funcionalidades de vendas e suporte com a integração do Freshdesk"/>
+        <freeeFormValue id="hFasWd7Lu3CvR98p9HSc7L1n2" name="Entenda seus clientes por completo com uma visão do cliente em 360 graus"/>
+        <freeeFormValue id="Y4uJpe06CBV2322iw0bP7FFRG" name="Realize vendas adicionais e cruzadas à sua base de clientes com campanhas de vendas automatizadas."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="M7VBeo2NrVi9L5Kwc27b4dVx7">
+      <location id="y7Q8T2KqJsb1WXEhkWGiQ032Y" path="https://www.freshworks.com/br/crm/sales/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="p4XfJ5750b1ux9IRqod9IqkO3" name="CRM PIPERUN">
+    <classification id="an8h9RiLNoaSIx4K2YkNAJi3N">
+      <descriptorGroup id="VTQxmd8p6gK0AFgWcIP8V0bLB" name="Fácil de começar a usar">
+        <freeeFormValue id="Gck7D8EqvG03kVFXrXcBAD69c" name="Uma interface simples e intuitiva que as equipes adoram usar, sem precisar de semanas de configuração"/>
+        <freeeFormValue id="D9bT4vta2j85r9OKO5dE86Mm4" name="Em minutos o CRM está pronto para uso"/>
+      </descriptorGroup>
+      <descriptorGroup id="5e3LyrR1bSl3S5bivmw5YbV8H" name="Mantenha organizado e controle o comercial">
+        <freeeFormValue id="cDfqNQ6jLLpa35mc4u3126MMx" name="Organize o processo comercial de forma visual."/>
+        <freeeFormValue id="6nywow0de4yy2TBAbL62p0jSQ" name="Funil de vendas do CRM no modelo Kanban."/>
+      </descriptorGroup>
+      <descriptorGroup id="g3d5ule51UBT96gxynFUt96nV" name="Padronize e automatize tarefas repetitivas">
+        <freeeFormValue id="8OM8TxHvwvbucBH6lLUEJ99uT" name="Templates de emails e tarefas podem ser automatizados para aumentar a produtividade da equipe com menos esforço."/>
+      </descriptorGroup>
+      <descriptorGroup id="tOnQs2LVmd2YCe3wD9Im8Y90E" name="Centralize as informações em um só lugar.">
+        <freeeFormValue id="i5h63C93CAJFQ45w5w0q0iRDw" name="Tudo organizado dentro de cada oportunidade para que a equipe foque em vender mais."/>
+      </descriptorGroup>
+      <descriptorGroup id="spCEHT957b9V268c10UYxSv33" name="Ganhe agilidade no envio de propostas.">
+        <freeeFormValue id="lQDfnTvDVh7Rk3KMN2kOWD79q" name="Um catálogo de produtos simples permite a emissão ágil de propostas em PDF com envio imediato para o cliente por email com tracking de abertura e aceite."/>
+      </descriptorGroup>
+      <descriptorGroup id="j0DLvO93T1fCO6xYp7Rn29RmF" name="Saiba quando o cliente abriu e clicou no email.">
+        <freeeFormValue id="6q9q8cYu3n2tec1YOvqSfFki8" name="Ao enviar, saiba se e quando o cliente abriu a mensagem. E se e quando clicou nos links também."/>
+      </descriptorGroup>
+      <descriptorGroup id="O7EQ98l3c4GRy589vdCmxrkQ4" name="Acelere o fechamento assinando documentos eletronicamente.">
+        <freeeFormValue id="6XnDq2TDky48j6p50M94H5hyo" name="Templates de documentos com os dados dos leads geram documentos automaticamente e podem ser enviados para coleta de assinatura eletrônica."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="MiL9LIpV4XF3C2GGCft3rbiem">
+      <location id="Mc5RDHql36S85a29x23QH83O4" path="https://crmpiperun.com/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="Yr26200IEKrWh3AV0C9QOYiqa" name="CLIENTAR CRM">
+    <classification id="qnW29ED3Jv86R6v4MhX91KaUk">
+      <descriptorGroup id="8HC9j4wguJ717m0jKMv3oW0iD" name="Indicadores: Vendas em Tempo Real">
+        <freeeFormValue id="qpBKv42a9b48d0SrlyjCI9w3g" name="Foco e Desempenho"/>
+        <freeeFormValue id="n9ck196q83A8wk0uY1LC5SVxI" name="O vendedor deve focar em sua metas, propostas em aberto e clientes que estão sem o acompanhamento adequado."/>
+      </descriptorGroup>
+      <descriptorGroup id="XpUQI9v0nRVviMmR9SguEFdcW" name="Gestão: Carteira de Clientes">
+        <freeeFormValue id="o0pKX8kD4n9CIQ4k3meI1wXnh" name="O Clientar separa os clientes automaticamente em Prospects, Ativos e Inativos."/>
+      </descriptorGroup>
+      <descriptorGroup id="4AVGSwdqLBukUf161PlsssYYe" name="Clientes: Segmento e Origem">
+        <freeeFormValue id="COC5621t0UA9pDvDcqP60YW1X" name="No cadastro do cliente você pode configurar e parametrizar os campos: Segmento e Origem"/>
+      </descriptorGroup>
+      <descriptorGroup id="Rdu5eP0V0GqMsnneR42U9304V" name="Controle: Follow Up">
+        <freeeFormValue id="WMWjRcu3fkH4x921F40X4x4VT" name="O Gestor pode agendar follow up para o vendedor e dar o direcionamento adequado em cada negociação. "/>
+        <freeeFormValue id="5N4b1F15h7iW7p2egK0F1SKfi" name="o CRM traz um relatório de follow up atrasados"/>
+      </descriptorGroup>
+      <descriptorGroup id="rT1hhNC8J053myFMk1yQoX929" name="Propostas: Controle Total das Oportunidades">
+        <freeeFormValue id="bBg4ffke89O9XYoUT8fi1t2G0" name="O relatório de proposta é completo"/>
+        <freeeFormValue id="NSC4eQH2iPXw74NwqTMa23lMV" name="Saiba a taxa de conversão por vendedor e da equipe, quantas propostas foram ganhar ou perdidas e por quais motivos a venda não foi realizada."/>
+      </descriptorGroup>
+      <descriptorGroup id="fsBv8Yi45f9V21mT8SGlUM8s2" name="Relatórios: ABC, Vendas e Relacionamento">
+        <freeeFormValue id="Ddyytm799d12Ms7553xfh3SNs" name="Robusto pacote de relatórios"/>
+        <freeeFormValue id="a4q5KQEBkK5JO71PYGRD9Lael" name="Costumização de relatórios de acordo com a necessidade"/>
+      </descriptorGroup>
+      <descriptorGroup id="A2eD9L4G2Ob85nRWfuwqYK7i4" name="Concorrentes e Tomada de Preços">
+        <freeeFormValue id="NHNvJY4NXYE1JxtA6KfyarP02" name=" O vendedor pode lançar no clientes os concorrentes que lá estão e registrar os produtos e valores que a concorrência pratica."/>
+      </descriptorGroup>
+      <descriptorGroup id="GnC3uskFIY773mWlw8303h86E" name="Integração">
+        <freeeFormValue id="6vgwQW3d45IXL4vc1pA8c6IH6" name="WhatsApp Business com API Oficial"/>
+        <freeeFormValue id="EnSS6By1173Q0llkAe63397U4" name="Integração com o seu ERP e ferramentas de marketing digital."/>
+        <freeeFormValue id="taKq3nn8ycCoaeU5ph1rJs6Ud" name="Integração com ferramentas de automação de marketing digital"/>
+      </descriptorGroup>
+      <descriptorGroup id="gd3Hmhn6x3mOnF83OjR261KFB" name="Treinamento de Vendas">
+        <freeeFormValue id="Dli6iRl1T6uxba74358SAB431" name="Além de tutorias sobre o CRM nossos clientes contam com os treinamentos com Paulo Araújo."/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="TBUIsj9o8sJVn9qI61k79uU0l">
+      <location id="twHwYho2K674xuao0pb6HOY0G" path="https://www.clientarcrm.com.br/funcionalidades/"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="l00eWlQYh83Q57J8S4g5QIpGK" name="SENIOR">
+    <classification id="bsoVmHu2VPR82daQLc80k4bU3">
+      <descriptorGroup id="moXiHYm8MiHGe75rVYdtte2yb" name="Melhore em até 300% a taxa de conversão e venda">
+        <freeeFormValue id="Gk5319J7eX61OOkh9YlE0cw72" name="Eleve sua produtividade e performance com um sistema CRM especialista."/>
+      </descriptorGroup>
+      <descriptorGroup id="iFVs1pwpO7fJX8m91ib6Y650L" name="Adicione agilidade à sua gestão de vendas com o CRM Senior">
+        <freeeFormValue id="D8Jc9YG5Tfmb6o4o77GI7uBw5" name="Conte com um módulo de contratos para gerenciar o ciclo de vida"/>
+        <freeeFormValue id="w1s2H0dnh2dQLgyr2P17uETpC" name="Envio de informações aos interessados sobre prazos de renovação"/>
+      </descriptorGroup>
+      <descriptorGroup id="Weo9aq5sGc8D6IMad6656sEMG" name="Tenha um portal colaborativo e compartilhado">
+        <freeeFormValue id="BhTpeMBiEIHSSfJ2mL8wgU8ki" name="Gerencie tarefas, recados e agenda corporativa na ferramenta colaborativa."/>
+      </descriptorGroup>
+      <descriptorGroup id="2D7q9LHqM71188gCBMDw35SaD" name="Centralize informações em uma única plataforma">
+        <freeeFormValue id="YUr0F46uN67JR6DfskSPdHKEv" name="Tenha todas as informações disponíveis, sincronizadas e atualizadas para todos os usuários em tempo real."/>
+      </descriptorGroup>
+      <descriptorGroup id="Hra4V2FIKdTELHj8HviR4AN0m" name="Fortaleça relacionamentos e melhore a experiência dos clientes">
+        <freeeFormValue id="Witvr6g1SnIT4PH89tFP65wj5" name="Estabeleça um canal de comunicação com seus clientes através da ouvidoria"/>
+        <freeeFormValue id="xLWehmPjQk1QVx762oM3d85cc" name="Identifique problemas e melhore seus resultados."/>
+      </descriptorGroup>
+      <descriptorGroup id="daFD8bK48X6BYiP9LhejT96m7" name="Tome decisões baseadas em dados">
+        <freeeFormValue id="37tHJvECGdR2cmh0ODAGS0SaA" name="Realize pesquisas de satisfação com tabulação dos dados em tempo real"/>
+        <freeeFormValue id="p5f12iP5981B53MD3232YddmT" name="Criação de gráficos estatísticos"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="AbFm5LJJ5575Tb7dkrvvbP428">
+      <location id="83gHay2860T1kWgTlQWq8B4M8" path="https://www.senior.com.br/solucoes/sistema-crm-gestao-de-relacionamento"/>
+    </downloadInfo>
+  </assets>
+  <assets xsi:type="rasppmde:ReusableAsset" id="j3RM8SbLCefo4BCpF2o8v7Fkf" name="MEETS CRM">
+    <classification id="6BDp1CTMLG8l9iPgK2KFpHLlc">
+      <descriptorGroup id="6RR0r5II0N0025pc2Be1dPCDH" name="Oportunidades">
+        <freeeFormValue id="aprV1KM6X72I8sGX4Gq4E61Vl" name="Gerenciamento de oportunidade de vendas e negócios "/>
+        <freeeFormValue id="urU81g3DoT0aq3f1Q9Y12E9xo" name="Organização de oportunidades através de visualização em grade"/>
+      </descriptorGroup>
+      <descriptorGroup id="u5aPTA9VWYs68U1d4817qB78l" name="Atendimento">
+        <freeeFormValue id="ECofv6F1f7755ac99oA2ONwqY" name="Registro da conversa com a data, hora e tipo de atendimento. "/>
+        <freeeFormValue id="HXUmUDECy58f8h51402Y5TQ63" name="Centralização de atendimentos para um maior controle de oportunidades"/>
+      </descriptorGroup>
+      <descriptorGroup id="4Qws6GT2AWET5V1fE3r8tlYV0" name="Atividades">
+        <freeeFormValue id="XM6AsHF4EAybd3OpChvGdf17L" name="Crie atividades e lembretes para facilitar o seu trabalho diário "/>
+        <freeeFormValue id="KJu2KQPRid7Ndg4nMO8kRfmuC" name="Lembrete de Meets através de e-mails e notificações no celular"/>
+      </descriptorGroup>
+      <descriptorGroup id="qgfebCNvLt1p095546wK24WjT" name="Funil de Vendas">
+        <freeeFormValue id="g0Y7Kjb7pjR0G5g2D0nw8O70X" name="Criação de funil de vendas com cadastro de etapas a serem seguidas e definição de passo a passo"/>
+        <freeeFormValue id="BEij772Y990nwC95bJ5t8396Y" name="Criação de múltiplos funis de atendimento"/>
+        <freeeFormValue id="22m29IC9Ir7E89T71gynpSL1a" name="Visualização do Funil em grades"/>
+      </descriptorGroup>
+      <descriptorGroup id="R9dQI4UduhbR2E4Gul8o4I86H" name="Integrações">
+        <freeeFormValue id="wm42jilw2Oi2dWYNK9R2GPeeD" name="Integração com principais serviços onlines de marketing e vendas"/>
+      </descriptorGroup>
+      <descriptorGroup id="HEK0Eu5GxgK1DHNu15qY3l44F" name="Relatórios">
+        <freeeFormValue id="wcjbx2T8bgQEciWc9jb25p15O" name="Visualização de gráficos de metas, clientes e oportunidades. "/>
+        <freeeFormValue id="2uPiI92TOpw95e3AxSmtB987h" name="Exportação de informações em formato CSV."/>
+        <freeeFormValue id="E4R9s2ybhfC09e53RCjKg3w7c" name="Visualização de desempenho nas oportunidades, atendimentos e atividades"/>
+      </descriptorGroup>
+      <descriptorGroup id="ef2t2y9b8ObN367OaPpOgVgKy" name="Importações">
+        <freeeFormValue id="Yfg5c3mWv4VpKLPBQigfJPet6" name="Importação de contatos, empresas, oportunidades de planilhas ou de outro crm para o Meets"/>
+      </descriptorGroup>
+    </classification>
+    <downloadInfo id="s1s2k2j7Ty7b5GR8l2yuU3N3t">
+      <location id="3wBF134K867K67TR2431j1ClO" path="https://meets.com.br/funcionalidades-meets-crm/"/>
+    </downloadInfo>
+  </assets>
 </rasppmde:Repository>
